@@ -1,13 +1,13 @@
 {
     "manifest": {
-        "author": "ArhynaH#9527",
-        "name": "Material Aliucord",
+        "author": "Nixyr#2089",
+        "name": "Material Myoui Mina",
         "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/A-rhyna-H\/Material-Aliucord\/main\/Material%20Aliucord.json"
+        "updater": "https:\/\/github.com/nixyr\/discord\/raw\/main\/material.json"
     },
     "background": {
     	"overlay_alpha": 75,
-      "url": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Nico%20Robin%20(STAMPEDE)\/Nico%20Robin%20(STAMPEDE).png"
+      "url": "https:\/\/raw.githubusercontent.com\/nixyr\/discord/main\/tumblr_e06560bf802eafa485efcb8566ff9cfc_d5784243_400.gif"
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/784158474761273374\/963211030509522954\/GoogleSans-Medium.ttf"
